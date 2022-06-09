@@ -1,0 +1,6 @@
+body {
+    background-size: 50%, 50%;
+    background-repeat: no-repeat;
+    background-image: url("image/h2.jpeg"), url("image/h3.jpg");
+    background-position: 50% 0%, 100% 0%;
+}
